@@ -1,2 +1,2 @@
-# TensorSandbox
-Toolbox for tensors
+# TensorTandbox
+Toolbox for tensors. Work in progress.
